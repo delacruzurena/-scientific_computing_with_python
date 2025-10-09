@@ -1,2 +1,2 @@
-# -scientific_computing_with_python
+# Scientific computing with Python
 Freecode camp projects
